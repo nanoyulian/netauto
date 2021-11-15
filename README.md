@@ -1,0 +1,2 @@
+# netauto
+latihan_gitremote
